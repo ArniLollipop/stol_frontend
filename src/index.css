@@ -1,0 +1,22 @@
+
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.qwe{
+  font-size: 24px;
+  font-weight: 700;
+}
+
+button{
+  min-width: 0px !important;
+}
+
+.left{
+  transform: translateX(-100%);
+}
